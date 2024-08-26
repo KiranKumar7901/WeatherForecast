@@ -52,7 +52,7 @@ weatherCode = {
 
 const options = { method: "GET", headers: { accept: "application/json" } };
 
-const apiKey = "AidpUFygDjsFkoV5F7SHV0aBqe0kewx3";
+const apiKey = "";
 
 async function fetchWeather(city) {
   try {
