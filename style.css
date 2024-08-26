@@ -1,0 +1,40 @@
+body {
+    background-image: url('./Images/pexels-pixabay-531767.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 60px;
+}
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+html {
+    scroll-behavior: smooth;
+}
+.side{
+    background-color: #6fa9ff;
+}
+.mid{
+    background-color: #0d6efd;
+}
+h1,h2{
+    color: rgb(0, 0, 0);
+}
+.but{
+    cursor: pointer;
+}
+.size{
+    font-size: 24px;
+}
+a{
+    cursor: pointer;
+}
+#usage li{
+    color: rgb(59, 0, 153);
+}
+#usage p{
+    color: rgb(59, 0, 153);
+}
