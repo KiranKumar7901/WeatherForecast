@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Weather App provides real-time weather information, including temperature, feels like, UV index, humidity, rain intensity, weather conditions, wind speed, visibility, and pressure. The app allows users to navigate between different sections seamlessly, with a responsive design that works on both desktop and mobile devices.
+The Weather Forecast provides real-time weather information, including temperature, feels like, UV index, humidity, rain intensity, weather conditions, wind speed, visibility, and pressure. The app allows users to navigate between different sections seamlessly, with a responsive design that works on both desktop and mobile devices.
 
 ## Features
 
